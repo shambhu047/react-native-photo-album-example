@@ -1,0 +1,1 @@
+export { AlbumScreen } from './album';
