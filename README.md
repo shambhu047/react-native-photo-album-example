@@ -1,8 +1,8 @@
 # react-native-photo-album-example
 
-###Setup
+### Setup
 install all dependencies
 > npm install
 
-###Run
+### Run
 > npm run android
